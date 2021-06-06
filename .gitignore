@@ -1,0 +1,10 @@
+*/wikiart
+*/preprocessed_kaggle
+wikiart.zip
+
+*/.ipynb_checkpoints
+*/__pycache__/
+*/_log
+
+.ipynb_checkpoints
+__pycache__
