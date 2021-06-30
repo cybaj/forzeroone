@@ -5,7 +5,8 @@ wikiart.zip
 */.ipynb_checkpoints
 */__pycache__/
 */_log
-*/mylogs
+mylogs/*
+mylogs
 
 .ipynb_checkpoints
 __pycache__
